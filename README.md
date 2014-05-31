@@ -10,6 +10,8 @@ To set the font for use in MacVim/gvim:
       set guifont=Fira\ Mono\ for\ Powerline:h15
     endif
 
+(Adjust the font size (here set as h15) to yr liking.)
+
 ## License and other info
 This typeface is licensed under the SIL Open Font License (OFL), as per the original font files. Please see the [master Fira repository on GitHub](https://github.com/mozilla/Fira) for license and further information.
 
