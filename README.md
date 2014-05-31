@@ -6,9 +6,9 @@ This repository hosts a modified version of [Fira Mono](https://mozilla.github.i
 ## Usage in gvim
 To set the font for use in MacVim/gvim:
 
-`if has('gui_running')
-  set guifont=Fira\ Mono\ for\ Powerline:h15
-endif`
+    if has('gui_running')
+      set guifont=Fira\ Mono\ for\ Powerline:h15
+    endif
 
 ## License and other info
 This typeface is licensed under the SIL Open Font License (OFL), as per the original font files. Please see the [master Fira repository on GitHub](https://github.com/mozilla/Fira) for license and further information.
